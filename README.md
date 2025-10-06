@@ -1,1 +1,1 @@
-This is a Clone Of Myntra(e-commerce websit) By Using HTML, CSS.
+This is a Clone Of Myntra(e-commerce website) By Using HTML And CSS.
